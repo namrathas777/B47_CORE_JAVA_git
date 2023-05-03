@@ -3,6 +3,7 @@
 	<name>C2TC</name>
 	<comment></comment>
 	<projects>
+		<project>C2TC-DBIT</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
